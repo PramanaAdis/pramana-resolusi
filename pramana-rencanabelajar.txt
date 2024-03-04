@@ -1,0 +1,7 @@
+Rencana belajar
+- wigget 
+  * row
+  * coloumn
+- git
+- github
+- laravel
