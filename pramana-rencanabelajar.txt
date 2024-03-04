@@ -1,5 +1,7 @@
 Rencana belajar
-- wigget
+- wigget 
+  * row
+  * coloumn
 - git
 - github
 - laravel
