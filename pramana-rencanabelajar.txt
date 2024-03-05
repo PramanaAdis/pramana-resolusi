@@ -8,4 +8,4 @@ Rencana belajar
 - github
 - laravel
  * belajar beckend
-  
+  * belajar frontend
