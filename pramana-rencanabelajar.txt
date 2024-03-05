@@ -2,10 +2,11 @@ Rencana belajar
 - wigget 
   * row
   * coloumn
+  * stack
+  * margin
 - git
  * brench
  * merge
-- github
 - laravel
  * belajar beckend
   * belajar frontend
