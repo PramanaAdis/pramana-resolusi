@@ -3,5 +3,8 @@ Rencana belajar
   * row
   * coloumn
 - git
+ * brench
+ * merge
+
 - github
 - laravel
