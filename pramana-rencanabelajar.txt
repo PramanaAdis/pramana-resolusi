@@ -7,5 +7,6 @@ Rencana belajar
 - git
  * brench
  * merge
-
 - laravel
+ * belajar beckend
+  * belajar frontend
