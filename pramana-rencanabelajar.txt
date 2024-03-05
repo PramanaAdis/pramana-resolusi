@@ -10,3 +10,4 @@ Rencana belajar
 - laravel
  * belajar beckend
   * belajar frontend
+- javascrip
